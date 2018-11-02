@@ -9,5 +9,5 @@ while count &lt; 3:
 
 # Re-write this statement as an /else/
 # clause in the /while/ statement
-print(Red fishnBlue fish)
-
+else:
+    print(Red fishnBlue fish)
